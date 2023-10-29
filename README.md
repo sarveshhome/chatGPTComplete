@@ -39,4 +39,15 @@ Enable chatGPT functions with below url
 
 https://gptforwork.com/help/gpt-for-sheets/setup-api-keys/create-openai-api-key
 
+## AI search engine and pair programmer
+
+https://www.phind.com/
+
+Describe a dark and moody theme from an iPhone photo
+
+
+## claude
+
+https://claude.ai/
+
 
