@@ -25,3 +25,18 @@ https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamk
 
 
 <img width="1482" alt="Screenshot 2023-10-23 at 7 32 05 PM" src="https://github.com/sarveshhome/chatGPTComplete/assets/14289661/3e014f63-706c-43ba-a785-a5b7abbd3dfa">
+
+
+# Google sheet addon Chat GPT
+
+https://docs.google.com/spreadsheets
+
+step 1: Go to Extension Menu -> Add Ons -> Get Add ons
+
+ChatGPT in Google Sheets™ and Docs™
+
+Enable chatGPT functions with below url
+
+https://gptforwork.com/help/gpt-for-sheets/setup-api-keys/create-openai-api-key
+
+
